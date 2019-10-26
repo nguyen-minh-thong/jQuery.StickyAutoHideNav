@@ -1,4 +1,4 @@
-#A jQuery plugin #
+## A jQuery plugin ##
 Just a test jQuery plugin for learn and practice.
 
 ## Version ##
