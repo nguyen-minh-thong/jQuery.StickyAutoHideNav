@@ -7,4 +7,4 @@ Just a test jQuery plugin for learn and practice.
 ##Usage##
 
 ##License##
-Free
+MIT

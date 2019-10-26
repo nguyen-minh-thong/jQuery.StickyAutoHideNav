@@ -1,0 +1,27 @@
+{
+  "name": "stickyautohidenav",
+  "version": "0.1.0",
+  "description": "Make your navbar sticky on top and auto hide.",
+  "main": "jQuery.StickyAutoHideNav.js",
+  "scripts": {
+    "test": "$(document).ready(function(){$.hideOnScroll({hide:'#mynav'});});"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen-minh-thong/jQuery.StickyAutoHideNav.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "jQuery",
+    "nav",
+    "sticky",
+    "auto hide"
+  ],
+  "author": "Nguyen Minh Thong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyen-minh-thong/jQuery.StickyAutoHideNav/issues"
+  },
+  "homepage": "https://github.com/nguyen-minh-thong/jQuery.StickyAutoHideNav#readme"
+}
